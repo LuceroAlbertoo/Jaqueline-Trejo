@@ -1,0 +1,49 @@
+html {
+    background-color: #FDFF7D;
+    border: groove 10px #FF8797;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+    border: dotted 10px #FF8797;
+    font-family: 'Atma', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: black;
+    background-color: white;
+    border: groove 20px pink;
+    font-family: 'Atma', cursive;
+}
+
+h4 {
+    color: black;
+    background-color: white;
+    border: groove 5px pink;
+}
+
+h5 {
+    color: black;
+    background-color: white;
+    border: groove 7px #FF8797;
+}
+
+li {
+    color: black;
+
+}
+
+.orange {
+    color: black;
+}
+
+.black {
+    color: black;
+}
+
+.pink {
+    color: black;
+}
